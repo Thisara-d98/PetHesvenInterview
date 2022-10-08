@@ -1,0 +1,44 @@
+.ashtext{
+    color: #3aaf79;
+}
+
+.maindetails{
+    position: absolute;
+    left: 50%;
+    top: 0%;
+    padding: 5%;
+}
+
+.notifyBtn{
+    margin-top: 2%;
+    margin-bottom: 7%;
+}
+
+.adopterlink{
+    color: rgb(82, 120, 206);
+    cursor: pointer;
+}
+
+.adopterdetail{
+    margin-top: 3%;
+    margin-bottom: 2%;
+}
+
+.adoptercard{
+    padding: 3%;
+}
+
+/* @media only screen and (min-width: 1400px) {
+    .maindetails{
+        position: absolute;
+        left: 50%;
+        top: 0%;
+        padding: 5%;
+    }
+
+    .imgcover{
+        width: 200px;
+        height: 220px;
+        object-fit: cover;
+    }
+  } */

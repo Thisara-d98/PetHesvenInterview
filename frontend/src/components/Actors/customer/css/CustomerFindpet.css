@@ -1,0 +1,90 @@
+.searchpets {
+    background-color: #42ba96;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 5%;
+    margin-top: 100px;
+}
+
+.searchanimalsheader {
+    text-align: center;
+    font-size: 26px;
+    margin-bottom: 100px;
+    margin-top: 200px;
+    color: #052d20;
+}
+
+#findpetdropdown {
+    margin-left: 300px;
+    margin-bottom: 30px;
+    margin-top: 80px;
+}
+
+#dropdownMenuButton {
+    margin-left: 60px;
+    padding-top: 9px;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+.desc1 {
+    font-weight: normal;
+    font-size: 26px;
+    color: #052d20;
+    padding: 40px;
+}
+
+.card1 {
+    width: 300px;
+    margin-top: 100px;
+    margin-right: 50px;
+    margin-left: 60px;
+}
+
+.searchbardiv {
+    margin-left: 400px;
+    width: 50%;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+#findpetimgs {
+    margin-top: 30px;
+    width: 80%;
+    height: 40%;
+}
+
+.petage {
+    text-align: center;
+    font-size: 18px;
+}
+
+.petname {
+    padding-top: 12px;
+    text-align: center;
+}
+
+
+/* 
+.mb-3 {
+    width: 50%;
+    margin-bottom: 10px;
+} */
+
+#petsearchbyname {
+    margin-bottom: 10px;
+}
+
+#petsearchbtn {
+    margin-left: 300px
+}
+
+#findpetimgarea {
+    margin-top: 40px;
+    margin-left: 140px;
+    width: 83%;
+}
+
+#petadopthbtn {
+    margin-left: 10px;
+}

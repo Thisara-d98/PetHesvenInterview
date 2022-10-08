@@ -1,0 +1,202 @@
+import React from "react";
+import {Link} from 'react-router-dom';
+import '../css/DoctorPrescription.css';
+// import {Link} from 'react-router-dom';
+
+import PaidPrescriptions from "./images/pres.jpg";
+import Inquiries from "./images/inquiry.jpg";
+import Inventory from "./images/inventory.png";
+
+
+
+function DoctorPrescription()
+{
+    return(
+        <div>
+            
+            
+
+                {/* Prescription list started  */}
+        <label htmlFor="service">Prescription List</label>
+
+        {/* First prescription started */}
+        <div className="form-group mt-3">
+                <div className="card">
+                <Link to="/pharmacy/Prescription" class="nav-link active">
+                    <div className="card-body bg-c-light">
+                    <div className="row ">
+                <div class="col-md-2">
+                    <label for="option" class="form-label">Prescription No</label>
+                        <h4 className="main-heading">5</h4>
+                    
+                    </div>
+                    <div class="col-md-5">
+                        <label for="option" class="form-label">Doctor details</label>
+                        <h4 className="main-heading">Dr. Amal Silva <sub>BVSc(Pera)</sub></h4>
+                        <h6 class="slmc">Veterinary Consultant</h6>
+                        <h6 class="slmc">SLMC - 13245</h6>
+                    </div>
+                    <div class="col-md-5">
+                    <label for="option" class="form-label">Patient details</label> 
+                        <h4 className="main-heading">Shaggy</h4>
+                        <h6 class="slmc">Dog</h6>
+                        <h6 class="slmc">6 months</h6>
+                    </div>
+                </div>
+                    </div>
+                </Link>
+                </div>
+                    
+                    
+                </div>
+                {/* First prescription ended */}
+
+                {/* Second prescription started */}
+                <div className="form-group mt-3">
+                    <div className="card">
+                        <div className="card-body bg-c-light">
+                        <div className="row ">
+                    <div class="col-md-2">
+                        <label for="option" class="form-label">Prescription No</label>
+                            <h4 className="main-heading">6</h4>
+                        
+                        </div>
+                        <div class="col-md-5">
+                            <label for="option" class="form-label">Doctor details</label>
+                            <h4 className="main-heading">Dr. Priyantha Perera <sub>BVSc(Pera)</sub></h4>
+                            <h6 class="slmc">Veterinary Consultant</h6>
+                            <h6 class="slmc">SLMC - 54328</h6>
+                        </div>
+                        <div class="col-md-5">
+                        <label for="option" class="form-label">Patient details</label> 
+                            <h4 className="main-heading">Jerry</h4>
+                            <h6 class="slmc">Cat</h6>
+                            <h6 class="slmc">10 months</h6>
+                        </div>
+                    </div>
+                        </div>
+                        
+                    </div>
+                    
+                    
+                </div>
+                {/* Second prescription ended */}
+
+                {/* Third prescription started */}
+                <div className="form-group mt-3">
+                    <div className="card">
+                        <div className="card-body bg-c-light">
+                        <div className="row ">
+                    <div class="col-md-2">
+                        <label for="option" class="form-label">Prescription No</label>
+                            <h4 className="main-heading">7</h4>
+                        
+                        </div>
+                        <div class="col-md-5">
+                            <label for="option" class="form-label">Doctor details</label>
+                            <h4 className="main-heading">Dr. Amaya Fernando <sub>BVSc(London)</sub></h4>
+                            <h6 class="slmc">Veterinary Consultant</h6>
+                            <h6 class="slmc">SLMC - 43564</h6>
+                        </div>
+                        <div class="col-md-5">
+                        <label for="option" class="form-label">Patient details</label> 
+                            <h4 className="main-heading">Charlie</h4>
+                            <h6 class="slmc">Dog</h6>
+                            <h6 class="slmc">4 months</h6>
+                        </div>
+                    </div>
+                        </div>
+                        
+                    </div>
+                    
+                    
+                </div>
+                {/* Third prescription ended  */}
+
+                {/* Fourth prescription started  */}
+                <div className="form-group mt-3">
+                <div className="card">
+                    <div className="card-body bg-c-light">
+                    <div className="row ">
+                <div class="col-md-2">
+                    <label for="option" class="form-label">Prescription No</label>
+                        <h4 className="main-heading">8</h4>
+                    
+                    </div>
+                    <div class="col-md-5">
+                        <label for="option" class="form-label">Doctor details</label>
+                        <h4 className="main-heading">Dr. Amal Silva <sub>BVSc(Pera)</sub></h4>
+                        <h6 class="slmc">Veterinary Consultant</h6>
+                        <h6 class="slmc">SLMC - 13245</h6>
+                    </div>
+                    <div class="col-md-5">
+                    <label for="option" class="form-label">Patient details</label> 
+                        <h4 className="main-heading">Jimmy</h4>
+                        <h6 class="slmc">Dog</h6>
+                        <h6 class="slmc">1 year</h6>
+                    </div>
+                </div>
+                    </div>
+                     
+                </div>
+                    
+                    
+                </div>
+                {/* Fourth prescription ended  */}
+
+                {/* Fifth prescription started  */}
+                <div className="form-group mt-3">
+                    <div className="card">
+                        <div className="card-body bg-c-light">
+                        <div className="row ">
+                    <div class="col-md-2">
+                        <label for="option" class="form-label">Prescription No</label>
+                            <h4 className="main-heading">9</h4>
+                        
+                        </div>
+                        <div class="col-md-5">
+                            <label for="option" class="form-label">Doctor details</label>
+                            <h4 className="main-heading">Dr. Jehan Perera <sub>BVSc(Pera)</sub></h4>
+                            <h6 class="slmc">Veterinary Consultant</h6>
+                            <h6 class="slmc">SLMC - 76984</h6>
+                        </div>
+                        <div class="col-md-5">
+                        <label for="option" class="form-label">Patient details</label> 
+                            <h4 className="main-heading">Lily</h4>
+                            <h6 class="slmc">Cat</h6>
+                            <h6 class="slmc">8 months</h6>
+                        </div>
+                    </div>
+                        </div>
+                        
+                    </div>
+                    
+                    
+                </div>
+                {/* Fifth prescription ended  */}
+
+               
+
+             
+            </div>
+           
+          </div>
+        
+      </div>
+     
+      
+      
+        
+                
+               
+                
+            </div>
+            
+        </section>
+        {/* Prescriptions ended */}
+
+        </div>
+    );
+}
+
+export default DoctorPrescription;

@@ -1,0 +1,48 @@
+.donationcard{
+  margin-bottom: 1%;
+}
+
+.donationsearch{
+    width:127% 
+}
+
+/* @media (max-width: 576px) {
+    
+    .donationsearch{
+        width:597px  
+    }
+    
+} */
+
+.donationTable{
+    margin-top: 1%;
+    height: 300px;
+    overflow-y: scroll;
+}
+
+.amountcell{
+    /* text-align: end;
+    padding-left: 2%;
+    position: absolute; */
+}
+
+.donationtext{
+    color: rgb(220, 48, 48);
+}
+
+/* 
+.table-fixed{
+    width: 100%;
+}
+
+tbody{
+    overflow-y:auto;
+    width: 100%;
+    margin-top: 1%;
+    height: 400px;
+}
+
+thead,tbody,tr,td,th{
+    display:block;
+} */
+

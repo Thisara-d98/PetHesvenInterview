@@ -1,0 +1,23 @@
+#editprofileform {
+    margin-left: 10px;
+    width: 80%;
+}
+
+.headerimg {
+    width: 50%;
+    height: 40vh;
+}
+
+#editprofileheader {
+    text-align: center;
+}
+
+.form-label {
+    text-align: center;
+}
+
+#customereditprofiles {
+    margin-left: 30px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}

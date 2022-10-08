@@ -1,0 +1,19 @@
+.acceptMargin{
+    margin-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.requestformfield{
+    margin-top: 15px;
+    margin-bottom: 2px;
+}
+
+/* .form-group{
+    margin-top: 15px;
+    margin-bottom: 2px;
+} */
+
+.inputanswercolor{
+    color: #198754;;
+}

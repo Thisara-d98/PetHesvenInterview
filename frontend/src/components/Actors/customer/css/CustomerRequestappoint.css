@@ -1,0 +1,81 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.bg-blue {
+    background-color: #e9ecef;
+}
+
+.bg-red {
+    background-color: #198754;
+}
+
+.bg-darkred {
+    background-color: #ced4da;
+    border: none;
+    color: black !important;
+}
+
+
+/* 
+p {
+    color: #198754;
+    font-weight: 500;
+    font-size: 13px;
+} */
+
+
+/* 
+select {
+p {
+    color: #198754;
+    font-weight: 500;
+    font-size: 13px;
+}
+    font-size: 13px !important;
+} */
+/* 
+#inputState:focus {
+    background-color: #ced4da;
+    color: black;
+    box-shadow: none;
+} */
+
+/* ::placeholder {
+    color: black !important;
+    font-size: 13px;
+}
+
+input:focus {
+    background-color: #ced4da !important;
+    color: black;
+    box-shadow: none !important;
+}
+
+textarea:focus {
+    background-color: #e9ecef !important;
+} */
+
+#dropDown {
+    height: 100%;
+    padding-bottom: 8px;
+}
+
+#dropDown.form-control {
+    appearance: revert;
+    color: #fff;
+}
+
+#dropDown.form-control:focus {
+    background-color: #198754;
+}
+
+.msg-btn {
+    height: 70px;
+}
+
+.btn:hover {
+    background-color: #efefef;
+}

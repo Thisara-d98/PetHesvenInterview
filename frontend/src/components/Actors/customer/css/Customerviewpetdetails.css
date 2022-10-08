@@ -1,0 +1,9 @@
+.petdetailsheader {
+    text-align: center;
+}
+
+#petdescription {
+    color: black;
+    padding: 50px;
+    background-color: #42ba96;
+}

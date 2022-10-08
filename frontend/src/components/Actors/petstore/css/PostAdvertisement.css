@@ -1,0 +1,54 @@
+/* 
+#price
+{
+    color:#42ba96;
+} */
+
+#submit-btn
+  {
+    background: #42ba96;
+    outline: none;
+    cursor: pointer;
+    font-weight: 500;
+    border-radius: 2px;
+    padding: 5px 10px;
+    color: white;
+  }
+  #submit-btn:hover
+  {
+    background: white;
+    /* color: rgb(0, 208, 255); */
+    color:#42ba96;
+  }
+
+  #PetTool-holder
+  {
+    height: 250px;
+    width: 250px;
+    border: 2px solid;
+    border-radius: 6px;
+    /* background-color: rgba(255, 255, 255, 0.5); */
+    object-fit: cover;
+    /* margin: auto; */
+    
+  }
+  #Pet-tool
+  {
+    height: 246px;
+    width: 246px;
+    margin: auto;
+    border-radius: 6px;
+    /* align-items: center; */
+    /* padding-left: 25px;
+    padding-top: 25px; */
+    justify-content: center;
+    background-image: url("https://cdn.onlinewebfonts.com/svg/img_74492.png");
+    background-position: center;
+    background-size: cover;
+    
+  }
+
+  #ImgContainer
+  {
+    margin: auto;
+  }

@@ -1,0 +1,23 @@
+.smallfont{
+    color: white;
+    padding-bottom: 20px;
+}
+
+.smallfont1{
+    color: white;
+}
+
+
+.bigfont{
+      color: rgb(243, 223, 13);
+    font-size: 25px;
+    font-family: 'Impact';
+}
+
+.btn{
+    color: rgb(243, 223, 13);  
+}
+
+#img{
+    height: 600px;
+}

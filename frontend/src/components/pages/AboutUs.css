@@ -1,0 +1,18 @@
+.bg-success
+{
+    background-color: blue;
+}
+
+.para
+{
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#aboutusimg {
+    width: 500px;
+    height: 300px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 300px;
+}

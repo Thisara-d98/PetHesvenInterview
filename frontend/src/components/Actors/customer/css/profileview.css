@@ -1,0 +1,52 @@
+.card-text {
+    font-size: 26px;
+}
+
+.column {
+    width: 40%;
+}
+
+#profileviewcard {
+    padding: 40px;
+    margin-top: 40px;
+}
+
+#profilelabel {
+    background-color: #eceded;
+    color: #198754;
+}
+
+#profileitem {
+    color: #f0f1f1;
+    background-color: #198754;
+}
+
+#profilebtns {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+#profilebtn {
+    margin-top: 20px;
+    margin-bottom: 50px;
+    margin-left: 600px;
+}
+
+.profilecollapse {
+    width: 50%;
+}
+
+#profiletable {
+    width: 80%;
+    background-color: white;
+}
+
+#expirydaterow {
+    background-color: red;
+    color: black;
+    font-weight: bold;
+}
+
+#petdetailsrow {
+    margin-top: 60px;
+}

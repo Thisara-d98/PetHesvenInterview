@@ -1,0 +1,25 @@
+.navbar-brand
+{
+    margin-left: 20px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.container-fluid
+{
+    color: aliceblue;
+}
+.nav-link
+{
+    color: aliceblue;
+}
+
+.a1{
+    color: rgb(243, 223, 13);
+    font-family: 'Impact';
+    font-size: 45px; 
+}
+
+.b{
+    color: white;
+}

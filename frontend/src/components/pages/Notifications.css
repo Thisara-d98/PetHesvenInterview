@@ -1,0 +1,37 @@
+/* 
+.subHeader{
+    margin-left: 6%;
+    margin-right: 6%;
+    background-color: rgb(9, 246, 131);
+}
+
+table,table-striped{
+    background-color: #aba2c5;
+    width: 50%;
+    padding-top: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 1%;
+    
+  
+}
+
+td {
+    text-align: center;
+  }
+
+tr{
+    text-align: center;
+ }  */
+
+
+ .bg-success
+{
+    background-color: blue;
+}
+
+.para
+{
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

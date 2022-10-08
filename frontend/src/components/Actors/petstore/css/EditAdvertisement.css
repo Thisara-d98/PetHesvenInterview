@@ -1,0 +1,22 @@
+
+/* #price
+{
+    color:#42ba96;
+} */
+
+#submit-btn
+  {
+    background: #42ba96;
+    outline: none;
+    cursor: pointer;
+    font-weight: 500;
+    border-radius: 2px;
+    padding: 5px 10px;
+    color: white;
+  }
+  #submit-btn:hover
+  {
+    background: white;
+    /* color: rgb(0, 208, 255); */
+    color:#42ba96;
+  }
